@@ -1,0 +1,1 @@
+web: gunicorn nots.wsgi --log-file -
